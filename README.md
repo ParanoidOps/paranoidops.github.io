@@ -1,2 +1,1 @@
-# Paranoid Ops
-
+Github Pages Repository
